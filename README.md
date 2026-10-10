@@ -19,6 +19,4 @@ git clone https://github.com/CyberOpsTeam/example-project.git
 cd example-project
 ```
 
-https://cyberops.team
-
-[Visit the CyberOps.Team blog](https://blog.cyberops.team)
+[CyberOps.Team blog](https://blog.cyberops.team)
